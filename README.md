@@ -5,7 +5,12 @@ Built with ❄️ by the YETI team for EthGlobal Unite DeFi Hackathon 2025
 <div align="center">
   <img src="yeti-frontend2/public/hero-yeti.png" alt="YETI - TradingView to 1inch" height="512" />
 </div>
-
+micromech-toolbox/
+├── src/
+│   ├── tolerances.py
+│   ├── conversions.py
+│   └── speeds.py
+└── README.md
 YETI is a DeFi trading app that bridges TradingView alerts to automated on-chain limit orders using the 1inch Limit Order Protocol. Essentially, it lets you use any TradingView indicators or custom Pine Script strategies to trigger on-chain trades automatically. YETI transforms your existing TradingView strategies into secure, non-custodial, automated trading systems.
 
 ## Architecture Overview
